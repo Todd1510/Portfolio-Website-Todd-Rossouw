@@ -1,8 +1,30 @@
 * {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
   }
    
-   
+header {
+
+}
+nav {
+
+} 
+
 h1 {
     color: cyan;
-  }
+}
+h2 {
+
+}
+p {
+
+}
+
+#about-me {
+
+}
+#projects {
+
+}
+#contact {
+  
+}
