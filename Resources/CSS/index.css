@@ -7,18 +7,13 @@ body {
    
 header {
   text-align: center;
-  height: 300px;
+  height: 250px;
   width: 100%;
+  margin: 0px;
 }
 nav {
   background-color: #6C737E;
   color: #ffffff;
-}
-main {
-
-}
-section {
-
 }
 footer {
   background-color: #6C737E;
@@ -30,14 +25,26 @@ footer {
 
 h1 {
     color: #7393A7;
-    line-height: 1.5;
+    line-height: 1.2;
+    font-size: 50px;
 }
 h2 {
   color: #7393A7;
   line-height: 1.5;
+  font-size: 35px;
+}
+header h2 {
+  margin-bottom: 0px;
+}
+.main-body {
+  font-size: 30px;
+  margin: 0px 0px 0px 20px;
+}
+h3 {
+  margin: 0px 0px 5px 20px;
 }
 p {
-
+  font-size: 12px;
 }
 
 .navbar {
@@ -58,11 +65,24 @@ p {
 }
 
 #about-me {
-
+  background-color: #B5CFD8;
 }
 #projects {
 
 }
 #contact {
-
+  background-color: #B5CFD8;
+}
+footer ul {
+  padding-left: 0px;
+  margin: 0px 0px 0px 20px;
+}
+.social-links {
+  display: inline-block;
+  padding: 5px;
+  margin: 0px 10px 0px 0px;
+}
+.linkedin {
+  width: 32px;
+  height:32px;
 }
