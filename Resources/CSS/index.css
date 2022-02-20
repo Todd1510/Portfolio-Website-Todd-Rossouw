@@ -1,15 +1,18 @@
 * {
     font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
   }
+body {
+    background-color: #E8ECF1;
+  }
    
 header {
-  background-color: #7FBBF4;
   text-align: center;
   height: 300px;
   width: 100%;
 }
 nav {
-  background-color: #0D5DD0;
+  background-color: #6C737E;
+  color: #ffffff;
 }
 main {
 
@@ -18,7 +21,7 @@ section {
 
 }
 footer {
-  background-color: #2F2F30;
+  background-color: #6C737E;
   color: #ffffff;
   height: 200px;
   width: 100%;
@@ -26,15 +29,32 @@ footer {
 }
 
 h1 {
-    color: #002247;
+    color: #7393A7;
     line-height: 1.5;
 }
 h2 {
-  color: #002247;
+  color: #7393A7;
   line-height: 1.5;
 }
 p {
 
+}
+
+.navbar {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+  margin: 10px 30px;
+}
+.navbar a {
+  text-decoration: none;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px 30px;
+}
+.navbar a:hover {
+  background-color: #364153;
 }
 
 #about-me {
