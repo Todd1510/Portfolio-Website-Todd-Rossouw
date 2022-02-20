@@ -3,10 +3,10 @@
   }
    
 header {
-
+  background-color: #7FBBF4;
 }
 nav {
-
+  background-color: #0D5DD0;
 }
 main {
 
@@ -15,14 +15,17 @@ section {
 
 }
 footer {
-  
+
 }
 
 h1 {
-    color: cyan;
+    color: #002247;
+    text-align: center;
+    line-height: 1.5;
 }
 h2 {
-
+  color: #002247;
+  line-height: 1.5;
 }
 p {
 
