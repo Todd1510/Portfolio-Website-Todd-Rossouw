@@ -5,6 +5,8 @@
 header {
   background-color: #7FBBF4;
   text-align: center;
+  height: 300px;
+  width: 100%;
 }
 nav {
   background-color: #0D5DD0;
