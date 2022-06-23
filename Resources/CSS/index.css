@@ -1,8 +1,10 @@
 * {
     font-family: Calibri, 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
   }
-body {
-    background-color: #E8ECF1;
+
+  body {
+    background-color: #345ea8;
+    margin: 0 0;
   }
    
 header {
@@ -11,15 +13,17 @@ header {
   width: 100%;
   margin: 0px;
 }
+
 nav {
-  background-color: #6C737E;
+  background-color: #345ea8;
   color: #ffffff;
 }
 nav ul {
   padding: 0px;
 }
+
 footer {
-  background-color: #6C737E;
+  background-color: #345ea8;
   color: #ffffff;
   height: 100px;
   width: 100%;
@@ -27,12 +31,12 @@ footer {
 }
 
 h1 {
-    color: #6C737E;
+    color: #ffffff;
     line-height: 1.2;
     font-size: 50px;
 }
 h2 {
-  color: #6C737E;
+  color: #ffffff;
   line-height: 1.5;
   font-size: 35px;
 }
@@ -65,17 +69,17 @@ p {
   margin: 10px 30px;
 }
 .navbar a:hover {
-  background-color: #364153;
+  background-color: #3b8ac3;
 }
 
 #about-me {
-  background-color: #B5CFD8;
+  background-color: #4ab4de;
 }
 #projects {
-
+  background-color: #4ab4de;
 }
 #contact {
-  background-color: #B5CFD8;
+  background-color: #4ab4de;
 }
 footer ul {
   padding-left: 0px;
